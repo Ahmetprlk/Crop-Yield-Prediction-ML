@@ -1,0 +1,1 @@
+Bu projede Makine öğrenmesi algoritmaları kullanılarak mahsul verim tahmini yapıldı. Makine öğreniminin yardımıyla, mahsul verimini hassas bir şekilde tahmin etmek için geçmiş verilerden, hava durumu modellerinden, toprak özelliklerinden ve diğer ilgili faktörlerden yararlanabiliriz.
